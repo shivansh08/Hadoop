@@ -1,0 +1,4 @@
+Hello, This is Shivansh Singh Gaharwar.
+It is a sample text file to test the word count program.
+I hope it will work.
+Thank you very much. 
